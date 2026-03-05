@@ -1,3 +1,7 @@
 .Contact{
     display: flex;
 }
+
+.Con h2 {
+    background-color: blue;
+}
