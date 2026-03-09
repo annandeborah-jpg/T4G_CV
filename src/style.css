@@ -1,7 +1,46 @@
-.Contact{
-    display: flex;
+body{
+background-color: rgb(240, 239, 235);
 }
 
-.Con h2 {
-    background-color: blue;
+.container{
+    width: 800px;
+    margin: auto;
+    padding: 20px;
+    font-family: Arial;
+    line-height:1.0cm;
+}
+
+.Profile{
+    display: flex;
+    
+}
+.Profile img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+h1{
+    padding: 10px;
+    font-size: large;
+    background-color: rgb(122, 101, 80);
+}
+
+h3{ 
+    color: darkorchid;
+}
+
+
+button{
+    background-color: rgb(15, 83, 184);
+    border-radius: 0.8px;
+    font-family: arial;
+    color: aliceblue;
+    font-size: small;
+    
+}
+
+hr{
+    margin:20px 0;
 }
